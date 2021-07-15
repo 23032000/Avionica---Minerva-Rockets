@@ -1,6 +1,6 @@
 # Overview 
 
-Equipes de estudantes competindo na IREC devem modelar, construir e lançar um foqueguete com um payload de até 8.8lb, para um apogeu de alvo de 10.000 ft ou 30.000 ft acima no nível do chão (AGL). Apenas para 2021, a porção de voo da competição foi eliminada. 
+Equipes de estudantes competindo na IREC devem modelar, construir e lançar um foguete com um payload de até 8.8lb, para um apogeu de alvo de 10.000 ft ou 30.000 ft acima no nível do chão (AGL). Apenas para 2021, a porção de voo da competição foi eliminada. 
 
 ## Categorias 
 
