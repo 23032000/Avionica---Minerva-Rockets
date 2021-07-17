@@ -107,6 +107,55 @@ Conclusão e Lições Aprendidas
 - Esta seção deve conter as lições aprendidas durante as fases de modelagem, manufatura e testes do projeto, ambos
 Apêndice de peso, medidas e dados de performance do sistema
 - O Relatório Técnico do Projeto deve conter um Apêndice de peso, medidas e dados de performance do sistema
-Apêndice de Relatório de Testes do Projeto
-- O Segundo O Relatório Técnico do Projeto deve conter um Relatório de Testes dos testes mínimos descritos no [IREC Design, Test,  & Evaluation Guide](http://www.soundingrocket.org/sa-cup-documents--forms.html).
 
+## Apêndice de Relatório de Testes do Projeto
+- O Segundo O Relatório Técnico do Projeto deve conter um Relatório de Testes dos testes mínimos descritos no [IREC Design, Test,  & Evaluation Guide](http://www.soundingrocket.org/sa-cup-documents--forms.html).
+Esses relatórios devem aparecer na seguinte ordem:
+- Testes do Sistema de Recuperação: Descrição dos testes performados e resultados.
+- Testes de Sistema de Propulsão SRAD (se aplicável): Além da descrição dos testes performados e resultados as equipes devem incluir neste apêndice um diagrama de circuito de fluidos.
+
+## Apêndice de Análise dos Perigos
+
+O Terceiro Relatório Técnico do Projeto deve conter um Apêndice de Análise dos Perigos, cujo objetivo é destacar procedimentos de manuseio, transporte e armazenamento de materiais perigosos que representem riscos potenciais.
+Um exemplo desta matriz está disponível no [site da ESRA](http://www.soundingrocket.org/sa-cup-documents--forms.html)
+
+## Apêndice de Avaliação de Risco
+
+O Quarto Relatório Técnico do Projeto deve conter um Apêndice de Avaliação de Risco, cujo objtetivo é resumir os riscos e a confiabilidade associados ao projeto. Um exemplo desta matriz está disponível no [site da ESRA](http://www.soundingrocket.org/sa-cup-documents--forms.html)
+
+## Apêndice de Listas de Verificação de Montagem, pré-voo e lançamento 
+
+O Quinto Relatório Técnico do Projeto deve conter um Apêndice de Listas de Verificação de Montagem, pré-voo e lançamento. Este apêndice deve incluir uma checklist detalhada dos processos para montagem final e operações de armar e lançar. 
+
+## Apêndice de Desenhos de Engenharia 
+
+O Sexto Relatório Técnico do Projeto deve conter um Apêndice de Desenhos de Engenharia. Este apêndice deve incluir os desenhos técnicos necessários para definir os subsistemas significativos ou componentes - especialmente subsistemas SRAD. 
+
+## Vídeo de Seesão de Pôster
+
+Cada time deverá submeter um vídeo de 15 minutos que contenha um overview do projeto. Este vídeo deve conter os objetivos do projeto, design, CONOPS e deve demonstrar a qualidade da montagem. 
+
+- É encorajando que as equipes sejam criativas e demonstrem apresentações engajadoras de alta qualidade. 
+- Não há formato ou estrutura específica para o vídeo, mas este nãodeve ultrapassar os 15 minutos.
+- Os times que dubmeterem vídeos mais longos que 15:00 minutos receberão zero como pontuação da sessão de posteres. 
+- Após os jurados revisarem os vídeos, as equipes terão uma sessão Q&A de 15 minutos agendada. 
+- As equipes postarão seus videos no YouTube e providenciarão o link no [Spaceport America Cup HeroX website](https://www.herox.com/SpaceportAmericaCup2021).
+
+## Materiais da Sessão de Pódio
+
+Cada equipe deve enviar um Resumo Estendido sobre um aspecto particular de seu trabalho para competição
+oficiais e o painel de jurados considerar a inclusão em uma sessão de pódio realizada durante a SA Cup. As equipes cujos tópicos forem aceitos na Sessão de Pódio serão consideradas elegíveis
+para Prêmios por Realização Técnica.
+
+- O Resumo Estendido deve ser formatado de acordo com o guia de estilo do e American Institute of Aeronautics
+and Astronautics (AIAA), usando o template do d Microsoft® Word, disponívet no [site da ESRA](http://www.soundingrocket.org/sa-cup-documents--forms.html)
+
+- O Resumo Estendido deve seguir o seguinte modelo de título "Team Your Team ID Technical Presentation to the Year Spaceport America Cup".
+
+- O Resumo Estendido deve ter até 500 palavras e não deve exceder 2 páginas. 
+
+Na data ou antes do evento, as equipes devem submeter uma cópia PDF do Resumo Estendido no [site do HeroX](https://www.herox.com/SpaceportAmericaCup2021).
+
+Na mesma data de submissão do Resumo Estendido, os times também devem submeter uma cópia de PDF de quaisquer slides que desejam usar durante a apresentação no site da HeroX. Os organizadores do evento postarão esses arrquivos em um arquivo onlie dos procedimentos da conferencia.
+
+- Apenas 24 equipes serão aceitos para a Sessão de Pódio. As apresentações terão 20 minutos, com 5 minutos adicionas para Q&A.
