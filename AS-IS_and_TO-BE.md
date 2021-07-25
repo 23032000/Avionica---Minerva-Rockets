@@ -8,7 +8,7 @@
 * Válvula Solenóide U121V5595-492210C2; 
 * Bateria fornece 3.7V, que são transformados para 6V pelo Boost Regulator (U3V70F6) para alimentar a válula esfera. 
 * Os 6V provenientes do Boost Regulator (U3V70F6) são diminuídos para 5V pelo Voltage Regulator (LM7805) e alimentam os termopares. 
-* Voltage Regulator (U3V70X) transforma tensão de +6V para +24V, que alimenta aaválvula solenoide;
+* Voltage Regulator (U3V70X) transforma tensão de +6V para +24V, que alimenta a válvula solenoide;
 
 ### TO-BE 
 * Identificar todos os códigos dos componentes presentes em cada placa;
